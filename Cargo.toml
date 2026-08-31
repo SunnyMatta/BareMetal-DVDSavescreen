@@ -1,0 +1,17 @@
+[package]
+name = "uefigraph"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+embedded-graphics = "0.8.2"
+tinybmp = "0.7.0"
+uefi = { version = "0.40.0", features = ["alloc"] } 
+
+[profile.dev]
+panic = "abort"
+
+[profile.release]
+panic = "abort"
+opt-level = 3
+lto = true
