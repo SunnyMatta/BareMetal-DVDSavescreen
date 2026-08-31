@@ -1,2 +1,3 @@
-# BareMetal-DVDSavescreen
-UEFI DVD screensaver written in Rust
+# DVDssrs
+![DVD_screensaver](vid/dvdlogodemo.mp4)
+
