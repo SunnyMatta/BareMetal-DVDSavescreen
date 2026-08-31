@@ -1,3 +1,3 @@
 # DVDssrs
-![DVD_screensaver](vid/dvdlogodemo.mp4)
+![DVD_screensaver](vid/dvdlogodemo.gif)
 
